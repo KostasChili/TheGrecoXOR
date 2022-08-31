@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGrecoXOR
 - 👀 I’m interested in coding games and apps
-- 🌱 I’m currently learning C#, sql, C++
+- 🌱 I’m currently learning WebDevelopment with M.E.A.N stack,  JavaScript and JAVA
 
 <!---
 TheGrecoXOR/TheGrecoXOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
